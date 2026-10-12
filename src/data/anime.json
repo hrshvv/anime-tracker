@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "title": "Attack on Titan: The Final Season",
+    "titleJp": "進撃の巨人 The Final Season",
+    "type": "Anime",
+    "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1600&auto=format&fit=crop&q=80",
+    "synopsis": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
+    "genres": ["Action", "Dark Fantasy", "Drama"],
+    "episodes": 28,
+    "status": "Completed",
+    "rating": 9.1,
+    "releaseYear": 2022,
+    "season": "Winter",
+    "studio": "MAPPA",
+    "language": "Japanese",
+    "featured": true,
+    "streamingLinks": [
+      { "platform": "Crunchyroll", "url": "https://crunchyroll.com" },
+      { "platform": "Hulu", "url": "https://hulu.com" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Jujutsu Kaisen Season 2",
+    "titleJp": "呪術廻戦",
+    "type": "Anime",
+    "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=600&auto=format&fit=crop&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&auto=format&fit=crop&q=80",
+    "synopsis": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself.",
+    "genres": ["Action", "Supernatural", "Fantasy"],
+    "episodes": 23,
+    "status": "Completed",
+    "rating": 8.9,
+    "releaseYear": 2023,
+    "season": "Summer",
+    "studio": "MAPPA",
+    "language": "Japanese",
+    "featured": true,
+    "streamingLinks": [
+      { "platform": "Crunchyroll", "url": "https://crunchyroll.com" },
+      { "platform": "Netflix", "url": "https://netflix.com" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Demon Slayer: Hashira Training Arc",
+    "titleJp": "鬼滅の刃 柱稽古編",
+    "type": "Anime",
+    "image": "https://images.unsplash.com/photo-1563089145-599997674d42?w=600&auto=format&fit=crop&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600&auto=format&fit=crop&q=80",
+    "synopsis": "Tanjiro goes to see the Stone Hashira, Himejima, who intends to prepare him for the battles to come. The training to become a Hashira is rigorous and demanding.",
+    "genres": ["Action", "Historical", "Fantasy"],
+    "episodes": 8,
+    "status": "Completed",
+    "rating": 8.5,
+    "releaseYear": 2024,
+    "season": "Spring",
+    "studio": "ufotable",
+    "language": "Japanese",
+    "featured": true,
+    "streamingLinks": [
+      { "platform": "Crunchyroll", "url": "https://crunchyroll.com" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Frieren: Beyond Journey's End",
+    "titleJp": "葬送のフリーレン",
+    "type": "Anime",
+    "image": "https://images.unsplash.com/photo-1514539079130-25950c84af65?w=600&auto=format&fit=crop&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1600&auto=format&fit=crop&q=80",
+    "synopsis": "An elven mage and her fellow adventurers have defeated the Demon King and brought peace to the land. But after decades pass, Frieren must face the mortality of humanity and reflect on her companions.",
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "episodes": 28,
+    "status": "Completed",
+    "rating": 9.3,
+    "releaseYear": 2023,
+    "season": "Fall",
+    "studio": "Madhouse",
+    "language": "Japanese",
+    "featured": true,
+    "streamingLinks": [
+      { "platform": "Crunchyroll", "url": "https://crunchyroll.com" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Solo Leveling",
+    "titleJp": "俺だけレベルアップな件",
+    "type": "Anime",
+    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&auto=format&fit=crop&q=80",
+    "synopsis": "In a world where hunters must battle deadly monsters to protect mankind, Sung Jinwoo, known as the weakest of all hunters, finds himself in a deadly dungeon.",
+    "genres": ["Action", "Fantasy"],
+    "episodes": 12,
+    "status": "Completed",
+    "rating": 8.4,
+    "releaseYear": 2024,
+    "season": "Winter",
+    "studio": "A-1 Pictures",
+    "language": "Japanese",
+    "featured": false,
+    "streamingLinks": [
+      { "platform": "Crunchyroll", "url": "https://crunchyroll.com" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Chainsaw Man",
+    "titleJp": "チェンソーマン",
+    "type": "Anime",
+    "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=600&auto=format&fit=crop&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=1600&auto=format&fit=crop&q=80",
+    "synopsis": "Denji is a teenage boy living with a Chainsaw Devil named Pochita. When he is betrayed and killed, Pochita sacrifices himself to revive Denji as Chainsaw Man.",
+    "genres": ["Action", "Horror", "Dark Fantasy"],
+    "episodes": 12,
+    "status": "Completed",
+    "rating": 8.6,
+    "releaseYear": 2022,
+    "season": "Fall",
+    "studio": "MAPPA",
+    "language": "Japanese",
+    "featured": false,
+    "streamingLinks": [
+      { "platform": "Crunchyroll", "url": "https://crunchyroll.com" },
+      { "platform": "Hulu", "url": "https://hulu.com" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Arcane: League of Legends",
+    "titleJp": "アーケイン",
+    "type": "TV Series",
+    "image": "https://images.unsplash.com/photo-1563089145-599997674d42?w=600&auto=format&fit=crop&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600&auto=format&fit=crop&q=80",
+    "synopsis": "Set in the utopian region of Piltover and the oppressed underground of Zaun, the story follows the origins of two iconic League champions-and the power that will tear them apart.",
+    "genres": ["Action", "Sci-Fi", "Drama"],
+    "episodes": 9,
+    "status": "Completed",
+    "rating": 9.0,
+    "releaseYear": 2021,
+    "season": "Fall",
+    "studio": "Fortiche / Riot Games",
+    "language": "English",
+    "featured": true,
+    "streamingLinks": [
+      { "platform": "Netflix", "url": "https://netflix.com" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Spy x Family Season 2",
+    "titleJp": "スパイファミリー",
+    "type": "Anime",
+    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+    "bannerImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=1600&auto=format&fit=crop&q=80",
+    "synopsis": "A spy on an undercover mission marries a professional assassin and adopts an orphan with telepathic powers to maintain his cover.",
+    "genres": ["Comedy", "Action", "Slice of Life"],
+    "episodes": 12,
+    "status": "Completed",
+    "rating": 8.2,
+    "releaseYear": 2023,
+    "season": "Fall",
+    "studio": "WIT Studio / CloverWorks",
+    "language": "Japanese",
+    "featured": false,
+    "streamingLinks": [
+      { "platform": "Crunchyroll", "url": "https://crunchyroll.com" }
+    ]
+  }
+]

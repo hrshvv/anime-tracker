@@ -1,0 +1,225 @@
+.my-list-page {
+  padding-top: 36px;
+  padding-bottom: 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.my-list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.my-list-title {
+  font-size: 2.2rem;
+  font-weight: 800;
+}
+
+.my-list-subtitle {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  margin-top: 4px;
+}
+
+.view-mode-toggle {
+  display: flex;
+  border-radius: var(--radius-md);
+  padding: 4px;
+  gap: 4px;
+}
+
+.view-mode-toggle .btn-icon {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-sm);
+  color: var(--text-muted);
+}
+
+.view-mode-toggle .btn-icon.active {
+  background: var(--accent);
+  color: #ffffff;
+}
+
+/* Tab Bar */
+.watchlist-tabs-bar {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.watchlist-tab-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 18px;
+  border-radius: var(--radius-md);
+  color: var(--text-secondary);
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+}
+
+.watchlist-tab-btn:hover {
+  color: var(--text-primary);
+  background: var(--bg-surface);
+}
+
+.watchlist-tab-btn.active {
+  color: var(--accent-light);
+  background: var(--accent-subtle);
+  border: 1px solid rgba(139, 92, 246, 0.3);
+}
+
+.tab-counter {
+  background: var(--bg-surface-elevated);
+  padding: 2px 8px;
+  border-radius: var(--radius-full);
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.watchlist-tab-btn.active .tab-counter {
+  background: var(--accent);
+  color: #ffffff;
+}
+
+/* Empty State */
+.empty-list-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 64px 24px;
+  text-align: center;
+  border-radius: var(--radius-xl);
+  gap: 12px;
+}
+
+.empty-emoji {
+  font-size: 3rem;
+}
+
+.empty-list-state p {
+  color: var(--text-secondary);
+  max-width: 400px;
+}
+
+/* Table Mode */
+.watchlist-table-container {
+  border-radius: var(--radius-lg);
+  overflow-x: auto;
+}
+
+.watchlist-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.watchlist-table th {
+  padding: 16px 20px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border-color);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.watchlist-table td {
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border-color);
+  vertical-align: middle;
+}
+
+.watchlist-table tr:hover {
+  background: var(--accent-subtle);
+}
+
+.table-title-cell {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.table-poster-thumb {
+  width: 48px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: var(--radius-sm);
+}
+
+.table-anime-title {
+  display: block;
+  font-weight: 600;
+  color: var(--text-primary);
+  font-size: 0.95rem;
+}
+
+.table-anime-meta {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.table-select {
+  background: var(--bg-surface-elevated);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  padding: 6px 12px;
+  font-size: 0.85rem;
+  color: var(--text-primary);
+  outline: none;
+}
+
+.table-select:focus {
+  border-color: var(--accent);
+}
+
+.table-progress-control {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--bg-surface-elevated);
+  padding: 4px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+}
+
+.counter-btn {
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border-radius: var(--radius-sm);
+}
+
+.progress-counter-text {
+  font-size: 0.85rem;
+  font-weight: 600;
+  min-width: 65px;
+  text-align: center;
+}
+
+.table-score-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.score-star {
+  color: #fbbf24;
+}
+
+.remove-row-btn {
+  color: var(--text-muted);
+}
+
+.remove-row-btn:hover {
+  color: var(--danger);
+  background: var(--danger-subtle);
+}
